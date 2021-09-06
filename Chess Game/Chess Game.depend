@@ -1,0 +1,121 @@
+# depslib dependency file v1.0
+1585397424 source:c:\users\nick\documents\c programs\chess game\main.c
+	"main.h"
+
+1585394496 c:\users\nick\documents\c programs\chess game\main.h
+	<stdio.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<string.h>
+
+1586239745 source:c:\users\kjpav\onedrive\documents\chess game\main.c
+	"main.h"
+
+1586235673 c:\users\kjpav\onedrive\documents\chess game\main.h
+	<stdio.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<string.h>
+
+1586269581 source:c:\users\nick\documents\c programs\chess game final\chess game\main.c
+	"main.h"
+
+1586316273 c:\users\nick\documents\c programs\chess game final\chess game\main.h
+	<stdio.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<string.h>
+
+1586316185 source:c:\users\nick\documents\c programs\chess game final\chess game\process.c
+	"main.h"
+
+1586280923 source:c:\users\nick\documents\c programs\chess game final\chess game\check.c
+	"main.h"
+
+1586316704 source:c:\users\nick\documents\c programs\chess game final\chess game\valid_move_check.c
+	"main.h"
+
+1586315974 source:c:\users\nick\documents\c programs\chess game final\chess game\do_render.c
+	"main.h"
+
+1586316627 source:c:\users\nick\documents\c programs\chess game final\chess game\load_end.c
+	"main.h"
+
+1586317592 source:c:\users\kjpav\onedrive\documents\chess game final\chess game\check.c
+	"main.h"
+
+1586317592 c:\users\kjpav\onedrive\documents\chess game final\chess game\main.h
+	<stdio.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<string.h>
+
+1586317592 source:c:\users\kjpav\onedrive\documents\chess game final\chess game\do_render.c
+	"main.h"
+
+1586317592 source:c:\users\kjpav\onedrive\documents\chess game final\chess game\load_end.c
+	"main.h"
+
+1586317592 source:c:\users\kjpav\onedrive\documents\chess game final\chess game\process.c
+	"main.h"
+
+1586317592 source:c:\users\kjpav\onedrive\documents\chess game final\chess game\valid_move_check.c
+	"main.h"
+
+1586317592 source:c:\users\kjpav\onedrive\documents\chess game final\chess game\main.c
+	"main.h"
+
+1586317594 source:c:\users\jayanth\onedrive\documents\chess game\chess game\do_render.c
+	"main.h"
+
+1586330161 c:\users\jayanth\onedrive\documents\chess game\chess game\main.h
+	<stdio.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<string.h>
+
+1586317594 source:c:\users\jayanth\onedrive\documents\chess game\chess game\check.c
+	"main.h"
+
+1586331948 source:c:\users\jayanth\onedrive\documents\chess game\chess game\load_end.c
+	"main.h"
+
+1586331601 source:c:\users\jayanth\onedrive\documents\chess game\chess game\main.c
+	"main.h"
+
+1586331633 source:c:\users\jayanth\onedrive\documents\chess game\chess game\process.c
+	"main.h"
+
+1586317594 source:c:\users\jayanth\onedrive\documents\chess game\chess game\valid_move_check.c
+	"main.h"
+
+1586333050 source:c:\users\kjpav\onedrive\documents\chess game\chess game\check.c
+	"main.h"
+
+1586333058 c:\users\kjpav\onedrive\documents\chess game\chess game\main.h
+	<stdio.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<string.h>
+
+1586333055 source:c:\users\kjpav\onedrive\documents\chess game\chess game\do_render.c
+	"main.h"
+
+1586333056 source:c:\users\kjpav\onedrive\documents\chess game\chess game\load_end.c
+	"main.h"
+
+1586333057 source:c:\users\kjpav\onedrive\documents\chess game\chess game\main.c
+	"main.h"
+
+1586336386 source:c:\users\kjpav\onedrive\documents\chess game\chess game\process.c
+	"main.h"
+
+1586333061 source:c:\users\kjpav\onedrive\documents\chess game\chess game\valid_move_check.c
+	"main.h"
+
